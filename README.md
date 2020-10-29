@@ -23,7 +23,7 @@ set throttle_boost_cutoff = 25
 set dyn_lpf_dterm_curve_expo = 7  
 set gyro_rpm_notch_q = 600  
 
-- Race y Fast Freestyle (Tolera controladoras de gama media, quad de respuesta rapida)
+- Race y Fast Freestyle (Tolera controladoras de gama media, quad de respuesta rapida, el mas aconsejable)
 
 set iterm_relax_cutoff = 20  
 set rc_smoothing_auto_smoothness = 7  
