@@ -111,3 +111,11 @@ Giro Filtro Notch Dinámico Max =350
 Además, los valores multiplicadores **Filtro Giro** y **Filtro D Term** se pueden mover un poco para filtrar menos la señal que enviamos a nuestro quad y tener una respuesta mas rapida. Hay que mover los dos por igual.  
 
 Personalmente he provado el valor **1.2 en ambos**, si provais alguno y no os convence volver a el valor por defecto 1 en ambos.
+
+#### Fuentes de información
+
+[Notas oficiales de la versión] https://github.com/betaflight/betaflight/wiki/4.2-Tuning-Notes  
+
+[Joshua Bardwell] https://www.youtube.com/watch?v=rhfOVJMxY7E  
+
+[Airbender_FPV] https://www.instagram.com/airbender_fpv/
