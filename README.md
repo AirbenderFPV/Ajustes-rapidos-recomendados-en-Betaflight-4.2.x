@@ -131,6 +131,8 @@ Personalmente he provado el valor **1.2 en ambos**, si provais alguno y no os co
 
 [Joshua Bardwell] https://www.youtube.com/watch?v=eFTnlhQRCFo
 
-[QuadMX]https://www.youtube.com/watch?v=GB2By3UVISk
+[QuadMX] https://www.youtube.com/watch?v=GB2By3UVISk  
+
+[QuadMX] https://www.youtube.com/watch?v=wUbscD3Fv4I
 
 [Airbender_FPV] https://www.instagram.com/airbender_fpv/
