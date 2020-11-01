@@ -102,11 +102,22 @@ set rc_smoothing_auto_smoothness = 10
 <img src="https://raw.githubusercontent.com/AirbenderFPV/Betaflight-4.2.0/main/images/Filtros.PNG">
 
 Es muy recomendable en esta pestaña editar los valores del **Filtro Notch Dinámico** situado en la parte inferior izquierda.  
-Los valores recomdendados y provados por Joshua Bradwell son los que aparecen en la imagen.  
-Giro Filtro Notch Dinámico Ancho = 0  
-Giro Filtro Notch Dinámico Q =250   
-Giro Filtro Notch Dinámico Min =70   
-Giro Filtro Notch Dinámico Max =350   
+Los valores recomdendados y provados por Joshua Bradwell y QuadMx son los que aparecen en la imagen.  
+set dyn_notch_width_percent = 0  
+set dyn_notch_q = 200  
+set dyn_notch_min_hz = 90  
+set dyn_notch_max_hz = 350  
+set gyro_rpm_notch_harmonics = 3  
+save    
+
+En caso de que quieran regresar a lo que estaba por default:   
+
+set dyn_notch_width_percent = 8  
+set dyn_notch_q = 120  
+set dyn_notch_min_hz = 150  
+set dyn_notch_max_hz = 600  
+set gyro_rpm_notch_harmonics = 3  
+save
 
 Además, los valores multiplicadores **Filtro Giro** y **Filtro D Term** se pueden mover un poco para filtrar menos la señal que enviamos a nuestro quad y tener una respuesta mas rapida. Hay que mover los dos por igual.  
 
@@ -119,5 +130,7 @@ Personalmente he provado el valor **1.2 en ambos**, si provais alguno y no os co
 [Joshua Bardwell] https://www.youtube.com/watch?v=rhfOVJMxY7E 
 
 [Joshua Bardwell] https://www.youtube.com/watch?v=eFTnlhQRCFo
+
+[QuadMX]https://www.youtube.com/watch?v=GB2By3UVISk
 
 [Airbender_FPV] https://www.instagram.com/airbender_fpv/
