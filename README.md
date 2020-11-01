@@ -116,6 +116,8 @@ Personalmente he provado el valor **1.2 en ambos**, si provais alguno y no os co
 
 [Notas oficiales de la versión] https://github.com/betaflight/betaflight/wiki/4.2-Tuning-Notes  
 
-[Joshua Bardwell] https://www.youtube.com/watch?v=rhfOVJMxY7E  
+[Joshua Bardwell] https://www.youtube.com/watch?v=rhfOVJMxY7E 
+
+[Joshua Bardwell] https://www.youtube.com/watch?v=eFTnlhQRCFo
 
 [Airbender_FPV] https://www.instagram.com/airbender_fpv/
