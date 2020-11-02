@@ -1,5 +1,4 @@
-# Ajustes-rapidos-recomendados-en-Betaflight-4.2.x
-Ajustes rapidos para Betaflight 4.2.x
+# Ajustes rapidos para Betaflight 4.2.x
 
 Estos comandos son sugerencias sobre cómo se pueden ajustar algunas de las configuraciones menos comunes para adaptarse a un cierto tipo de vuelo.  
 Son valores que Betaflight nos da como orientativos para los diferentes tipos de vuelo.   
